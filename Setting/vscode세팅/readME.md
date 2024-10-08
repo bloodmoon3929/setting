@@ -13,7 +13,10 @@ https://amelamel.tistory.com/7
 7. 이외 알고리즘 연습에 도움되는 vscode extension 설치
 
 ## MinGW 설치
-본인의 PC가 64 비트 운영체제인지 확인후
+요즘은 대부분의 컴퓨터가 64bit이나, 혹시 모르니 본인의 PC가 64 비트 운영체제인지 확인해야 한다.
+![](../img/vsc_1.png)<br>
+윈도우 검색에 설정을 검색하면, 다음과 같은 화면이 나온다. 홈 아래의 시스템 항목을 누른다.
+
 
 https://www.mingw-w64.org/ 접속
 
